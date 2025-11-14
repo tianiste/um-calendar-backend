@@ -1,4 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
+using UmCalendar.DTOs;
+using UmCalendar.Models;
+using UmCalendar.Services;
 using NSwag.Annotations;
 namespace UmCalendar.Controllers
 {
